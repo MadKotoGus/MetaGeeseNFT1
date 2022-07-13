@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xf5B2E602f412001d0F79099E8C5812897e677C2b",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x789e124ccc9cbe42541116e9f2c16a70f1a1a705",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "MetaGeese NFT",
+  "SYMBOL": "MGNFT",
+  "MAX_SUPPLY": 4444,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/metageese",
+  "SHOW_BACKGROUND": true
+}
